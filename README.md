@@ -4,7 +4,10 @@ Hello World! 🌍 My name is Samirudin, and I love turning ideas into code. 🚀
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/samirudin-7966051a4/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samirudin2921@gmail.com) [🌐](https://samirudin.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/samirudin-7966051a4/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samirudin2921@gmail.com)
+<a href="https://samirudin.vercel.app">
+  <img src="https://cdn-icons-png.flaticon.com/128/2721/2721725.png" width="32" height="32" alt="website" style="margin-top: 10px;"/>
+</a>
 
 # 💻 Tech Stack:
 
